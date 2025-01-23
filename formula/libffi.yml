@@ -1,0 +1,5 @@
+summary: A portable Foreign Function Interface library
+webpage: https://sourceware.org/libffi
+version: 3.4.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/libffi-3.4.6-android-33-arm64-v8a.release.tar.xz
+bin-sha: a312068ce6f3e73330da1e7e3578014113728a190b1029acee32e6272fe639c0

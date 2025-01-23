@@ -1,0 +1,5 @@
+summary: Cryptography and SSL/TLS Toolkit
+webpage: https://openssl.org
+version: 2.0.16
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/openssl-fips-2.0.16-android-33-arm64-v8a.release.tar.xz
+bin-sha: a98445c1bfea97815e2e9921ee9e1de34e2703f0a20be780b1d7759276dbdddf

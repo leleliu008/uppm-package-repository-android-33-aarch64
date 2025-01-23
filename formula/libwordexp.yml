@@ -1,0 +1,5 @@
+summary: wordexp(3) implementation
+webpage: https://pubs.opengroup.org/onlinepubs/9699919799/functions/wordexp.html
+version: 2025.01.23
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/libwordexp-2025.01.23-android-33-arm64-v8a.release.tar.xz
+bin-sha: bd4876d973839d79038b191c8c84528660304c03a4d478528f32bcd79b3c7d4c

@@ -1,0 +1,5 @@
+summary: Utility for directing compilation
+webpage: https://www.gnu.org/software/make
+version: 4.4.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/gmake-4.4.1-android-33-arm64-v8a.release.tar.xz
+bin-sha: 492efc63963c3f76f812c73997d381724f6457d5ef8a7c8c16eb6faaf04634a7

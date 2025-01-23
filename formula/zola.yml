@@ -1,0 +1,5 @@
+summary: Fast static site generator in a single binary with everything built-in
+webpage: https://www.getzola.org/
+version: 0.19.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/zola-0.19.2-android-33-arm64-v8a.release.tar.xz
+bin-sha: 4376ff9a30bf9ac458087f01577604881f6740e3d64b9fa8fe44b2a6aa1af662

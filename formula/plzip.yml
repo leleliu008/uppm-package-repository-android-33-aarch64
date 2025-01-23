@@ -1,0 +1,5 @@
+summary: A massively parallel (multi-threaded) implementation of lzip, fully compatible with lzip 1.4 or newer
+webpage: https://www.nongnu.org/lzip/plzip.html
+version: 1.11
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/plzip-1.11-android-33-arm64-v8a.release.tar.xz
+bin-sha: 85c43045e60f46297cb31fb637c5293cd2513fa4a374a555e3cde681efe84d0c

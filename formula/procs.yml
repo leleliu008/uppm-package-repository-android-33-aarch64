@@ -1,0 +1,5 @@
+summary: Modern replacement for ps written by Rust
+webpage: https://github.com/dalance/procs
+version: 0.14.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/procs-0.14.5-android-33-arm64-v8a.release.tar.xz
+bin-sha: 7a40d3614ca00e4b3fc3a60db66b60c9f2f90da9cabaa4323c0b150a607442a0

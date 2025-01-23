@@ -1,0 +1,5 @@
+summary: Compact general purpose allocator
+webpage: https://github.com/microsoft/mimalloc
+version: 2.1.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/libmimalloc-2.1.7-android-33-arm64-v8a.release.tar.xz
+bin-sha: e8b1838ce4301eb286447042794ce71fcea58ad831b27aaf0600e99049e9d0c9

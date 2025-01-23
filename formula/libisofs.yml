@@ -1,0 +1,5 @@
+summary: Library to create an ISO-9660 filesystem with extensions like RockRidge or Joliet
+webpage: https://dev.lovelyhq.com/libburnia/libisofs
+version: 1.5.6.pl01
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/libisofs-1.5.6.pl01-android-33-arm64-v8a.release.tar.xz
+bin-sha: 71ffdcd2180ca704e4d025b8cf477d3e1b82da1b0992c6b0df3c2f4f2ae742bd

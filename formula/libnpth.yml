@@ -1,0 +1,5 @@
+summary: New GNU portable threads library
+webpage: https://gnupg.org
+version: 1.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/libnpth-1.6-android-33-arm64-v8a.release.tar.xz
+bin-sha: fcd1415b3d9eba13d855d8f4e06456c4ee7fc075791a7eba27441abff24abf36

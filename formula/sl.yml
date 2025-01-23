@@ -1,0 +1,5 @@
+summary: Prints a steam locomotive if you type sl instead of ls
+webpage: https://github.com/mtoyoda/sl
+version: 5.02
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/sl-5.02-android-33-arm64-v8a.release.tar.xz
+bin-sha: 2d1176b581fb6917319293281114ae69dc9408c4f646b30c4de46fe3f876d6fc

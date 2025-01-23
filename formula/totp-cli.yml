@@ -1,0 +1,5 @@
+summary: Authy/Google Authenticator like TOTP CLI tool written in Go
+webpage: https://yitsushi.github.io/totp-cli/
+version: 1.8.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/totp-cli-1.8.7-android-33-arm64-v8a.release.tar.xz
+bin-sha: 6656f0e573cec1abef1d65b821d4168b3ad2c2a5c0d128d3638755e973e9ddd5

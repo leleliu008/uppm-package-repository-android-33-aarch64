@@ -1,0 +1,5 @@
+summary: parse suboption arguments from a string
+webpage: https://linux.die.net/man/3/getsubopt
+version: 1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/libgetsubopt-1-android-33-arm64-v8a.release.tar.xz
+bin-sha: 345b1138f78b740aa59e263e6139427311b83c249c97387a3ec01e5ebdcb2511

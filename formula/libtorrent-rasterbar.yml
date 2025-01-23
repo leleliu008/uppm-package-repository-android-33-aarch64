@@ -1,0 +1,5 @@
+summary: An efficient feature complete C++ bittorrent implementation focusing on efficiency and scalability
+webpage: http://libtorrent.org
+version: 2.0.10
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/libtorrent-rasterbar-2.0.10-android-33-arm64-v8a.release.tar.xz
+bin-sha: 0fc2b91598ced9f080aec7dc8d95491511cae7b941ec4eb5c3188e414153bf2d

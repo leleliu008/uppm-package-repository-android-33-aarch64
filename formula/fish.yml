@@ -1,0 +1,5 @@
+summary: User-friendly command-line shell for UNIX-like operating systems
+webpage: https://fishshell.com/
+version: 3.7.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/fish-3.7.1-android-33-arm64-v8a.release.tar.xz
+bin-sha: e28f674eb2749c8942d004bc74a8807c9680e4c46bc6cfb4ce3a3b6e74abe63c

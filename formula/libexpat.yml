@@ -1,0 +1,5 @@
+summary: XML 1.0 parser
+webpage: https://libexpat.github.io
+version: 2.6.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/libexpat-2.6.4-android-33-arm64-v8a.release.tar.xz
+bin-sha: bd90cb04ff78bf8f00f62624184180d9441af895bfaf63fdb44b8fa30804a7ac

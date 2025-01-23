@@ -1,0 +1,5 @@
+summary: Extended crypt library for descrypt, md5crypt, bcrypt, and others
+webpage: https://github.com/besser82/libxcrypt
+version: 4.4.36
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/libxcrypt-4.4.36-android-33-arm64-v8a.release.tar.xz
+bin-sha: 66471acf1a211459c85176e228efac358388ddba85da6d45796eb218c6878cea

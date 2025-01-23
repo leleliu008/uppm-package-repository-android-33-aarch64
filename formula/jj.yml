@@ -1,0 +1,5 @@
+summary: A git-compatible distributed version control system
+webpage: https://github.com/martinvonz/jj
+version: 0.25.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/jj-0.25.0-android-33-arm64-v8a.release.tar.xz
+bin-sha: f793adb1399eb42f449bc0e4110b0fa352ae332b0183f490e78c09bda6f4387f

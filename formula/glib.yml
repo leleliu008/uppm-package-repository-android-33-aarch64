@@ -1,0 +1,5 @@
+summary: A general-purpose, portable utility library which provides many useful data types, macros, type conversions, string utilities, file utilities, a mainloop abstraction, and so on
+webpage: https://developer.gnome.org/glib
+version: 2.78.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/glib-2.78.0-android-33-arm64-v8a.release.tar.xz
+bin-sha: 8922f02e21b97ce91b8ad2b9496a600cbbd20294b8c5c7bcbd5bab5ea6e216fc

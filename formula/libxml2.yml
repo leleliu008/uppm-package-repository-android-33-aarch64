@@ -1,0 +1,5 @@
+summary: GNOME XML library
+webpage: http://xmlsoft.org
+version: 2.12.8
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/libxml2-2.12.8-android-33-arm64-v8a.release.tar.xz
+bin-sha: a84a0931a03aef58c71cfe965b33ba39377229e47bc424c0681f3fe2f19ca8ed

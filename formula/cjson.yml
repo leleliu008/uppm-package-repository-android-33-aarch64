@@ -1,0 +1,5 @@
+summary: Ultralightweight JSON parser in ANSI C
+webpage: https://github.com/DaveGamble/cJSON
+version: 1.7.18
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/cjson-1.7.18-android-33-arm64-v8a.release.tar.xz
+bin-sha: a6d317a0bd9756a1d8e5bfb76c506abb81e0d0fb5de7a25044cb1623ff56a573

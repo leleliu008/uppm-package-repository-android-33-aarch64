@@ -1,0 +1,5 @@
+summary: Net top tool grouping bandwidth per process
+webpage: https://raboof.github.io/nethogs/
+version: 0.8.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/nethogs-0.8.7-android-33-arm64-v8a.release.tar.xz
+bin-sha: dddccdaf6b22f92aca4c9a3c80f23c31bf8814b42e3d3fc70da2f860cfdbfd61

@@ -1,0 +1,5 @@
+summary: Banner-like program prints strings as ASCII art
+webpage: http://www.figlet.org/
+version: 2.2.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/figlet-2.2.5-android-33-arm64-v8a.release.tar.xz
+bin-sha: 59acd7797b447ccada7f929589deb00d68a3fc8f7ba53d33d939ea2ac015edb9

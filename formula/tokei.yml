@@ -1,0 +1,5 @@
+summary: Program that allows you to count code, quickly
+webpage: https://github.com/XAMPPRocky/tokei
+version: 12.1.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/tokei-12.1.2-android-33-arm64-v8a.release.tar.xz
+bin-sha: ae4d0076ab36d5be3a45f4608b4e1faed792a06397db2918ebab6d9523bf1d64

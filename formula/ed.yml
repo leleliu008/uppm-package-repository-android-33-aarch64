@@ -1,0 +1,5 @@
+summary: Classic UNIX line editor
+webpage: https://www.gnu.org/software/ed/ed.html
+version: 1.20.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/ed-1.20.2-android-33-arm64-v8a.release.tar.xz
+bin-sha: 217716d2528fb203e4fbdd2fbec7712de51421b77c8fa703c78d06c6338a327b

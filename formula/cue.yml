@@ -1,0 +1,5 @@
+summary: Validate and define text-based and dynamic configuration
+webpage: https://cuelang.org/
+version: 0.9.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/cue-0.9.1-android-33-arm64-v8a.release.tar.xz
+bin-sha: 954fcc8ca18ccc9d4275ca8288637649f050e692891a8faed80e78f9c8bc3b43

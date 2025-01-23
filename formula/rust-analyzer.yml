@@ -1,0 +1,5 @@
+summary: A Rust compiler front-end for IDEs
+webpage: https://rust-analyzer.github.io/
+version: 2024.01.29
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/rust-analyzer-2024.01.29-android-33-arm64-v8a.release.tar.xz
+bin-sha: 5bfce1ec0606da387dd5262a9f33beb151efaec3fe1647c4f8f23697154fc9f0

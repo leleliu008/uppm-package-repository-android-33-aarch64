@@ -1,0 +1,5 @@
+summary: A command-line tool for drawing graphs
+webpage: https://www.graphviz.org/
+version: 11.0.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/dot_static-11.0.0-android-aarch64.release.tar.xz
+bin-sha: 47dbf329ce11f58cb78d6b655e8383ad3beb04f16a4efda4fde40f0f4068452b

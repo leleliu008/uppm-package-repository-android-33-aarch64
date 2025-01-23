@@ -1,0 +1,5 @@
+summary: matrix multiplication library
+webpage: https://github.com/google/ruy
+version: 2025.01.23
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/ruy-2025.01.23-android-33-arm64-v8a.release.tar.xz
+bin-sha: 574af46d3f6ca786409b944529028f0b3af485d7b1aff3b3b52a7afe6ef38a55

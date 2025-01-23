@@ -1,0 +1,5 @@
+summary: A better alternative to df(1)
+webpage: https://github.com/muesli/duf
+version: 0.8.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/duf-0.8.1-android-33-arm64-v8a.release.tar.xz
+bin-sha: 841b19f6727acca9bfd6db67f717c68f18e28614a9c6dd7ed3d491232aadacf4

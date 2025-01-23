@@ -1,0 +1,5 @@
+summary: XML 1.0 parser
+webpage: https://libexpat.github.io
+version: 2.6.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/xmlwf-2.6.4-android-33-arm64-v8a.release.tar.xz
+bin-sha: ed0f972a645e3201c4489ffcab5c5322c21955fffe65cdd0e87660c6e3e902f9

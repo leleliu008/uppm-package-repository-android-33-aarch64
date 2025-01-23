@@ -1,0 +1,5 @@
+summary: Copies files into or out of a cpio or tar archive
+webpage: https://www.gnu.org/software/cpio
+version: 2.15
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/cpio-2.15-android-aarch64.release.tar.xz
+bin-sha: 6feae42335e45a504601823ba95514ce9a264d188da76d5818b1094dce454acf

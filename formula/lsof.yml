@@ -1,0 +1,5 @@
+summary: A command-line tool to list open files
+webpage: https://people.freebsd.org/~abe
+version: 4.99.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/lsof-4.99.3-android-33-arm64-v8a.release.tar.xz
+bin-sha: e1b97dfe36e6758baa4ee397c8c284301f266d10e305389cf924c6cb56f639ee

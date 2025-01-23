@@ -1,0 +1,5 @@
+summary: OpenGL and OpenGL ES reference compiler for shading languages
+webpage: https://www.khronos.org/opengles/sdk/tools/Reference-Compiler/
+version: 14.2.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/glslang-14.2.0-android-33-arm64-v8a.release.tar.xz
+bin-sha: 0bcc1af81c45b55de9344a8a02a4660043749309131e1cfb51f7e873b77eef39

@@ -1,0 +1,5 @@
+summary: Syntax-highlighting pager for git and diff output
+webpage: https://github.com/dandavison/delta
+version: 0.18.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/delta-0.18.2-android-33-arm64-v8a.release.tar.xz
+bin-sha: 5177e697ed0ea5a78e5ac58d77903d7cbf764c15917103c6b159e4440504b82a

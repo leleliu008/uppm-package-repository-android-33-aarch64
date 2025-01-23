@@ -1,0 +1,5 @@
+summary: Interactive cheatsheet tool for the command-line
+webpage: https://github.com/denisidoro/navi
+version: 2.23.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/navi-2.23.0-android-33-arm64-v8a.release.tar.xz
+bin-sha: 01827b6ccf1e3b7c3d059b845b99a398f4cde278cc27f7d24ff7536ffd49da15

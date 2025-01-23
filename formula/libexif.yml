@@ -1,0 +1,5 @@
+summary: EXIF parsing library
+webpage: https://libexif.github.io
+version: 0.6.24
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/libexif-0.6.24-android-33-arm64-v8a.release.tar.xz
+bin-sha: d34ee4dfbe1b419623d37b691f0ae6e1373ca778af96ee2ed04b2c1bdca55f91

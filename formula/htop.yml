@@ -1,0 +1,5 @@
+summary: Improved top (interactive process viewer)
+webpage: https://htop.dev
+version: 3.3.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/htop-3.3.0-android-33-arm64-v8a.release.tar.xz
+bin-sha: e20aef1f0713ba5ad8e321e0c5c8e17c7113950e766b4f1fee9e6290e52655e5

@@ -1,0 +1,5 @@
+summary: Light-weight C++ XML processing library
+webpage: https://pugixml.org/
+version: 1.14
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/libpugixml-1.14-android-33-arm64-v8a.release.tar.xz
+bin-sha: 55ab23696fa475e97ab838797ed0f4333afc4a7b9dee3a145c4eaa85cf289547

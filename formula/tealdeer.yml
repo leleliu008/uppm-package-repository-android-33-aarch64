@@ -1,0 +1,5 @@
+summary: A very fast implementation of tldr in Rust
+webpage: https://github.com/dbrgn/tealdeer
+version: 1.6.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/tealdeer-1.6.1-android-33-arm64-v8a.release.tar.xz
+bin-sha: d148d43962ab8973ef2033950fd9f86a175c8741b71b7876abad02989a26d824

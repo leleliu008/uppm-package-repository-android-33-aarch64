@@ -1,0 +1,5 @@
+summary: An efficient cross platform serialization library for C++
+webpage: https://google.github.io/flatbuffers
+version: 24.3.25
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/flatc-24.3.25-android-33-arm64-v8a.release.tar.xz
+bin-sha: deb5040be49dacadede26a3c4fc5eb0ff99b80b882a2578b7324a7752e68f8d5

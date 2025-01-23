@@ -1,0 +1,5 @@
+summary: Toolkit library for asynchronous network I/O with protocol stacks
+webpage: https://github.com/baresip/re
+version: 3.13.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/libre-3.13.0-android-33-arm64-v8a.release.tar.xz
+bin-sha: d6d4319b1758b5d0c552a2d8ae8e8c7885fe19e4053dfe4c72ef3fd50644b283

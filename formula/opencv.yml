@@ -1,0 +1,5 @@
+summary: Open source computer vision library
+webpage: https://opencv.org/
+version: 4.9.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-33-aarch64/releases/download/2025.01.23/opencv-4.9.0-android-33-arm64-v8a.release.tar.xz
+bin-sha: 9c854560dd5c44e2fbace5ff30c06a4cb04e99057111769b830f53ffeb72dfc7
