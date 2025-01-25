@@ -16,7 +16,7 @@ sed -n '/^dep-pkg:/p' *.yml | cut -c10- | tr ' ' '\n' | sort | uniq > b
 
 SED="sed -e s|^-||"
 
-for item in d8 v8 skia pdfium webrtc fortune luajit libqalculate libgnutls
+for item in d8 v8 skia pdfium webrtc fortune libqalculate
 do
     SED="$SED -e /^$item$/d"
 done
@@ -96,12 +96,7 @@ do
           sed -i 's/libcares//'    ~/.ndk-pkg/repos.d/official-core/formula/libcurl.yml
           sed -i '/enable-ares/d'  ~/.ndk-pkg/repos.d/official-core/formula/libcurl.yml
 
-      - run: |
-            case \${{ matrix.pkg }} in
-                findutils|diffutils|coreutils|gtar|cpio|patch)
-                    ./ndk-pkg install android-35-arm64-v8a/\${{ matrix.pkg }} --static ;;
-                *)  ./ndk-pkg install android-33-arm64-v8a/\${{ matrix.pkg }}
-            esac
+      - run: ./ndk-pkg install android-33-arm64-v8a/\${{ matrix.pkg }}
 
       - name: bundle
         run: |
